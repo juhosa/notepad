@@ -26,8 +26,8 @@ alias np=/path/to/notepad.sh
 
 ## Features
 
-[x] Take notes
-[ ] Script to view few of the newest notes
+- [x] Take notes
+- [ ] Script to view few of the newest notes
 
 ## License
 
